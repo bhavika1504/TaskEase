@@ -63,5 +63,4 @@ TaskEase is a lightweight, web-based Task Management System designed to streamli
 - **Complete:** Mark a task as finished to log the completion timestamp.
 - **Task Tracking:** View your action history (start/stop times) for any task.
 
----
-*Created with ❤️ for efficient task management.*
+
